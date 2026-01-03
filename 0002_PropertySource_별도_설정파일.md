@@ -3,7 +3,7 @@
 # @PropertySource 를 통한 별도 프로퍼티 파일 관리
 
 ```aiignore
-2025.01.03
+2026.01.03
 ```
 
 ```aiignore
